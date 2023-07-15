@@ -19,4 +19,4 @@ ATD - Análise e Transformação de Dados <br />
 <br />
 
 ## Autor:
-* **Dario Felix / DFTF@PConsole#**, n. 2018275530, dario@student.dei.uc.pt, GitHub: [@DFTF-PConsole](https://github.com/DFTF-PConsole)
+* **Dário Félix / DFTF@PConsole#**, Nº 2018275530, [dario@student.dei.uc.pt](mailto:dario@student.dei.uc.pt), GitHub: [@DFTF-PConsole](https://github.com/DFTF-PConsole)
